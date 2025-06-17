@@ -221,4 +221,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Cookie URLs
+
+
+Update:  17.06.2025 05:29
